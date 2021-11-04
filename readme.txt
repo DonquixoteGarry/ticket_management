@@ -1,0 +1,2 @@
+由于本数据库ticket_db的建表sql是由navicat实现,存储在SQL文件"ticket_db.sql"中
+而navicat不能正常显示触发器的定义,所以触发器放在另一个SQL文件"NameAdd.sql"中
